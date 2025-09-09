@@ -17,8 +17,7 @@ const jetbrainsMono = JetBrains_Mono({
 
 export const metadata: Metadata = {
   title: "Bushra Sayyed - Portfolio",
-  description:
-    "Space-themed portfolio of a passionate web developer specializing in React, Next.js, and modern web technologies.",
+  description: "My Space-themed portfolio",
 };
 
 export default function RootLayout({
