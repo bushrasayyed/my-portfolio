@@ -204,7 +204,7 @@ export default function Portfolio() {
       <StarField />
       <Navigation activeSection={activeSection} />
 
-      <Dialog open={showFreelancePopup} onOpenChange={setShowFreelancePopup}>
+      {/* <Dialog open={showFreelancePopup} onOpenChange={setShowFreelancePopup}>
         <DialogContent className="glass border-primary/20 max-w-md">
           <DialogHeader>
             <DialogTitle className="flex items-center gap-2 text-primary">
@@ -249,7 +249,7 @@ export default function Portfolio() {
             </Button>
           </div>
         </DialogContent>
-      </Dialog>
+      </Dialog> */}
 
       {/* Hero Section */}
       <section
